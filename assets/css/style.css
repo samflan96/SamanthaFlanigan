@@ -594,7 +594,7 @@ section {
 }
 
 .about .image {
-  background: url("../img/sam2.jpg") center center no-repeat;
+  background: url("../img/sam2.png") center center no-repeat;
   background-size: cover;
   min-height: 500px;
 }
